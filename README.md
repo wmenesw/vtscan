@@ -8,9 +8,7 @@ $> git clone https://github.com/wmenesw/vtscan.git && cd vtscan
 
 $> pip install -r requirements.txt
 
-$> chmod +x vtscan.py
-
-$> ./vtscan.py [OPTIONS]
+$> python vtscan.py [OPTIONS]
 
 ### Command line options:
 

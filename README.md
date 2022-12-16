@@ -15,9 +15,9 @@ $> ./vtscan.py [OPTIONS]
 ### Command line options:
 
 ```
--h or --help	Help Menu
+-h or --help  Help Menu
 
--a or --apikey Your VirusTotal API key
+-a or --apikey  Your VirusTotal API key
 
--p or --path	The path of the file you want scanned
+-p or --path  The path of the file you want scanned
 

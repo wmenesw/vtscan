@@ -36,6 +36,7 @@ data = response.json()
 mcafee = data["data"]["attributes"]["last_analysis_results"]["McAfee"]["category"],
 symantec = data["data"]["attributes"]["last_analysis_results"]["Symantec"]["category"],
 
+print("SHA1:",hash_hex)
 print("McAfee :", mcafee[0])
 print("Symantec :", symantec[0])
 

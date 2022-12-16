@@ -4,13 +4,13 @@ Virus Total Scan
 
 Install and Usage:
 -------------
-$> git clone https://github.com/imertayak/FuzzyModbus.git && cd FuzzyModbus
+$> git clone https://github.com/wmenesw/vtscan.git && cd vtscan
 
 $> pip install -r requirements.txt
 
-$> chmod +x FuzzyModbus.py
+$> chmod +x vtscan.py
 
-$> ./FuzzyModbus.py [OPTIONS]
+$> ./vtscan.py [OPTIONS]
 
 ### Command line options:
 

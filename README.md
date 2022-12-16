@@ -1,4 +1,4 @@
-Virus Totak Scan
+Virus Total Scan
 =====================
 
 

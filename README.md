@@ -1,6 +1,6 @@
 Virus Total Scan
 =====================
-Scan a file with VirusTotal
+Scanning a file with VirusTotal
 
 Install and Usage:
 -------------
